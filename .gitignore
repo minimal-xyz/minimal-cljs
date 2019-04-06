@@ -1,2 +1,5 @@
 
 /target
+.nrepo-port
+node_modules/
+.shadow-cljs/
